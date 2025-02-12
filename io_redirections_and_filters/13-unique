@@ -1,0 +1,2 @@
+#!/bin/bash
+cat input_file | sort | uniq -u
