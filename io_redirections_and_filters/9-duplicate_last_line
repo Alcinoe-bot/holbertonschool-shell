@@ -1,2 +1,2 @@
 #!/bin/bash
-sed -i '$a $(tail -n 1 iacta)' iacta
+derniere_ligne=tail -n 1 iacta | echo "$derniere_ligne" >> iacta
