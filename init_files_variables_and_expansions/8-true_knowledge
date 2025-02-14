@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((128 + TRUEKNOWLEDGE)) | set TRUEKNOWLEDGE
+echo $((128 + TRUEKNOWLEDGE)) | set TRUEKNOWLEDGE=1209
